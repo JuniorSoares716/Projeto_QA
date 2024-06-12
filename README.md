@@ -43,6 +43,6 @@ A aplicação estará disponível em http://localhost:3000.
 ## Contato
 Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato:
 
-- Equipe: Junior, Bruno, Felipe, Victor, Mathues
+- Equipe: Junior, Bruno, Felipe, Victor, Matheus, Arnon
 - Email: seu.email@example.com
 - LinkedIn: Seu LinkedIn
