@@ -1,0 +1,11 @@
+{
+  "name": "markL",
+  "version": "1.0.0",
+  "description": "Projetos-QA",
+  "main": "index.js",
+  "repository": "https://github.com/JuniorSoares716/Projeto_QA",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.11.0"
+  }
+}
